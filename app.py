@@ -19,7 +19,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("European_Bank.csv")
+   return pd.read_csv("final_bank_retention_dataset.csv")
 
 
 try:

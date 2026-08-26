@@ -1,0 +1,5 @@
+CustomerRiskSegment,Customers,Churned,Churn_Rate,Average_Balance,Average_Products,Average_Age
+Churned Customer,1657,1657,100.0,77690.33,1.49,44.94
+Critical Churn Risk,380,380,100.0,149619.01,1.42,44.39
+Disengagement Risk,4165,0,0.0,76752.71,1.47,36.1
+Low Risk,3798,0,0.0,68350.64,1.62,38.84

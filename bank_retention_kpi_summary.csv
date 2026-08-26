@@ -1,0 +1,17 @@
+KPI,Value
+Total Customers,10000.0
+Total Churned Customers,2037.0
+Overall Churn Rate (%),20.37
+Active Customer Churn Rate (%),14.27
+Inactive Customer Churn Rate (%),26.85
+Retained Customer Avg Products,1.54
+Churned Customer Avg Products,1.48
+High-Balance Disengagement Rate (%),49.88
+High-Value Churned Customers,592.0
+High-Value Disengaged Churned Customers,380.0
+Credit Card Customer Churn (%),20.18
+Non-Credit Card Customer Churn (%),20.81
+Credit Card Stickiness Difference (pp),0.63
+Strong Relationship Churn (%),12.95
+Moderate Relationship Churn (%),17.92
+Weak Relationship Churn (%),32.33
